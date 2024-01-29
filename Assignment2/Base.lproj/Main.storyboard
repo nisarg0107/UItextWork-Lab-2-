@@ -57,6 +57,7 @@
                                         <constraints>
                                             <constraint firstAttribute="height" constant="200" id="ZnA-3m-TY7"/>
                                         </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                     </textView>
                                 </subviews>
